@@ -9,7 +9,15 @@ Visual DNA:
 Warm cream paper background (#faf7f1 — Paper & Pencil theme). Minimalist near-black (#1b1a17) hand-drawn line art. Slightly wobbly pen lines. Lots of empty cream space. Sparse handwritten annotations in muted sepia/amber (#8a5a1f), muted red (#c04848), and muted blue (#466480). Clean absurd product-sketch feeling on a ruled notebook page. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
 
 Recurring IP character required:
-Xiaohei (小黑), a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. Xiaohei must perform the core conceptual action, not decorate the scene. Make Xiaohei serious, deadpan, and slightly bizarre, not cute.
+Xiaohei (小黑), a small absurd creature. Body is a solid filled blob/bean shape in the theme ink color (near-black #1b1a17 for light theme, warm cream #ebe4d2 for dark theme). Two circular eyes in the paper color (#faf7f1 for light theme, #16140f for dark theme) so eyes always contrast with the body. Blank, deadpan, serious expression — never smiling. Slightly uneven hand-drawn body outline.
+
+Xiaohei limb specification (fixed and consistent across all illustrations — do not vary):
+- Arms: medium-weight confident strokes, roughly 3× the thickness of the fine line art detail. Not stick-thin, not tube-thick — appropriate noodle-arm weight that reads clearly at a glance.
+- Legs: two short legs, same medium weight as arms, slightly apart.
+- Hands: each arm ends in a simple rounded nub — no fingers, no thumbs, no glove detail. The nub IS the hand.
+- Object contact: when Xiaohei touches, holds, pulls, carries, pushes, or grips something, the hand-nub must sit cleanly against the object — resting on it, wrapping its edge, or overlapping slightly. Never leave a floating arm end disconnected from what it's interacting with. Contact must look deliberate and physically correct.
+
+Xiaohei must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre — not cute.
 
 Theme:
 {illustration theme}
@@ -30,7 +38,7 @@ Handwritten labels:
 {label 1} / {label 2} / {label 3} / {label 4} / {optional label 5}
 
 Color use:
-Near-black (#1b1a17) for main line art and Xiaohei. Sepia/amber (#8a5a1f) for main flow/path/arrows. Muted red (#c04848) only for key warnings/problems/results. Muted blue (#466480) only for secondary notes or system/feedback state. Background: warm cream (#faf7f1).
+Theme ink (#1b1a17 for light, #ebe4d2 for dark) for Xiaohei's body and main line art. Sepia/amber (#8a5a1f light / #d6a865 dark) for main flow/path/arrows. Muted red (#c04848) only for key warnings/problems/results. Muted blue (#466480) only for secondary notes or system/feedback state. Background: warm cream (#faf7f1) for light theme, dark warm paper (#16140f) for dark theme.
 
 Constraints:
 One image explains only one core structure. Keep the main subject around 40%–60% of the canvas. Preserve at least 35% open cream space. Use at most 5–8 short handwritten labels. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, or dense explainer. Do not copy prior examples or reuse known case compositions unless explicitly requested; invent a fresh visual metaphor for this specific article. It should be clear but not instructional, interesting but not childish, strange but clean.

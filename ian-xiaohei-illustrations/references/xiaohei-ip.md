@@ -8,12 +8,25 @@ Every image should include Xiaohei by default. Xiaohei is not a mascot, not a st
 
 ## Appearance
 
-- Small solid-black creature.
-- White circular dot eyes.
-- Thin legs; occasionally thin arms.
-- Body can be cylindrical, bean-shaped, a black box, a funnel, a shadow, a hole opening, or a dark block inside a machine.
+- Small solid creature, filled with the theme ink color (not hardcoded black).
+  - Light theme: body filled with `--ink` (#1b1a17).
+  - Dark theme: body filled with `--ink` (#ebe4d2).
+- Eyes: two circular dots in the paper color (`--paper`), so they always contrast with the body.
+  - Light theme: cream dots (#faf7f1) on a near-black body.
+  - Dark theme: dark dots (#16140f) on a warm-cream body.
+- Body shape can be cylindrical, bean-shaped, a rounded box, a funnel, a shadow, a hole opening, or a block inside a machine. Keep the silhouette consistent across a set of illustrations — don't change body shape mid-article.
 - Outline slightly irregular, hand-drawn feel.
-- Expression blank, dazed, calm, serious.
+- Expression blank, dazed, calm, serious. Keep it consistent — no smiling, no expressive variation.
+
+## Arms and Legs
+
+Default limb spec (this is the fixed, consistent rule — don't vary it across images):
+
+- **Arms**: Medium-weight strokes, thicker than hair-line detail but not tube-thick. Roughly 3× the weight of the fine line art — confident marker weight, not stick-thin.
+- **Legs**: Same medium weight as arms. Two of them, short, slightly apart.
+- **Hands**: Simple rounded nub at the end of each arm — not fingers, not a glove, just a clean rounded terminus the eye can read as a hand.
+- **Contact with objects**: When Xiaohei touches, holds, pulls, or carries something, the arm must terminate cleanly against the object. Draw the hand-nub resting on, gripping, or overlapping the object — never leave a floating arm end that doesn't connect.
+- **No fingers, no thumbs, no detailed hand anatomy.** The rounded nub is the hand.
 
 ## Personality
 
